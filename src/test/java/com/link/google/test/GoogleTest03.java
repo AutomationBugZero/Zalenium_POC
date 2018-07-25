@@ -16,9 +16,6 @@ public class GoogleTest03 {
 
     RemoteWebDriver driver;
 
-
-
-
     @Test
     public void Googlet() {
 

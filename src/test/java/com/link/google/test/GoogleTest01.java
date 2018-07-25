@@ -17,7 +17,7 @@ public class GoogleTest01 {
 
 
 
-    WebDriver driver;
+    RemoteWebDriver driver;
 
 
 
